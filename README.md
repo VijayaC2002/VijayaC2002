@@ -1,41 +1,21 @@
-![Profile views](https://komarev.com/ghpvc/?username=sankalp2009&label=Profile%20views&color=0e75b6&style=flat)
-<br><br>
-<a href="https://github.com/Sankalp2009">
-<img src="https://res.cloudinary.com/dn2q6aoex/image/upload/v1673793194/github-header-image_nimfrj.png">
+<a href="https://github.com/VijayaC2002">
+<img src="https://res.cloudinary.com/dn2q6aoex/image/upload/v1716821212/Vijaya_Header_b7hhaf.png">
  </a>
  <br>
-
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=sankalp2009">
-</a>
-</div>
-<br>
-
-<div>
-<img align="right" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp" alt="Coding" width="300" />
-</div>
-
 <h3>💫 About Me:</h3>
 <div align="left">
 🔭 I’m currently working on <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://makeshift-thread-5916-sankalp2009.vercel.app/" target="_blank">Nordstorm Clone Project</a>
 <br>
 🌱 I’m currently learning Mern Stack Technologies<br/>
-👨‍💻 All of my work available in <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://sankalp2009.github.io/" target="_blank">PortFolio</a><br>
 💬 Ask me about React, React-Ecosystem, Redux, MongoDB Database
 <br>
-📄 Know about my experiences <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://drive.google.com/file/d/1c0dSiczbynoKwz-tV9SGixUSxTvhpW4t/view?usp=sharing">Resume</a>
-<br>
-⚡ Fun fact I think I am an Enthusiastic, self-motivated, and Work-ethical Guy.
+⚡ Fun fact I think I am an Enthusiastic, self-motivated, and Work-ethical.
 </div>
 <br>
 
 <h3><img src="https://cdn-icons-png.flaticon.com/512/1824/1824898.png" alt="sankalp2009" width="20px" height="20px"/> Connect with me:</h3>
 <p align="left">
-<a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://linkedin.com/in/sankalp-patel-08b76017b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-patel" height="30" width="40" /></a>
-<a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://hashnode.com/@sankalp668" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sankalp668" height="30" width="40" /></a>
-<a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://medium.com/@sankalppatel38" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sankalppatel38" height="30" width="40" /></a>
-<a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://www.leetcode.com/sankalppatel38" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sankalppatel38" height="30" width="40" /></a>
+<a style="text-decoration: none; padding-left: 5px; color: teal;" href="www.linkedin.com/in/vijaya-chimale" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-patel" height="30" width="40" /></a>
 </p>
 <br />
 <h3>💻 Tech Stack:</h3>
@@ -65,29 +45,7 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="typescript" width="80" height="40"/>
 </div>
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<div align="center">
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="mongodb" width="400" />
-<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalp2009&theme=tokyonight&hide_border=true" alt="mongodb" width="437" />
-</div>
-<br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="mongodb" width="auto" height="170" />
-</div>
 <div align="center">
 <h3>✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="mongodb" width="auto" height="196px"/>
 </div>
-
-- 👋 Hi, I’m @VijayaC2002
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-VijayaC2002/VijayaC2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
